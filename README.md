@@ -28,3 +28,5 @@
 22. Vamos selecionar "web server, ssh server e standard system utilities"
 23. Assim que a instalação de pacotes esteja concluida, você é questionado se deseja instalar o grub, clique em em sim e continue
 24. após isso a instalação estará concluida
+## Prova da instalação concluida com sucesso
+![image](https://user-images.githubusercontent.com/54211710/130354546-82570795-a9b4-4048-933c-5dc53f0e8d29.png)
